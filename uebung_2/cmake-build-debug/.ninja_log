@@ -1,0 +1,12 @@
+# ninja log v5
+0	168	1682067669580505721	CMakeFiles/uebung_2.dir/main.cpp.o	a34f7eec823ca6e
+0	200	1682067669612505457	CMakeFiles/uebung_2.dir/Aufgabe_2/Aufgabe_2.cpp.o	17daa7f0f767f5c8
+200	239	1682067669652505126	uebung_2	a4a40f95b6c6cbe5
+0	192	1682067696460283339	CMakeFiles/uebung_2.dir/Aufgabe_2/Aufgabe_2.cpp.o	17daa7f0f767f5c8
+192	232	1682067696500283008	uebung_2	a4a40f95b6c6cbe5
+1	189	1682067709804172934	CMakeFiles/uebung_2.dir/Aufgabe_2/Aufgabe_2.cpp.o	17daa7f0f767f5c8
+190	230	1682067709844172603	uebung_2	a4a40f95b6c6cbe5
+1	182	1682067753935807756	CMakeFiles/uebung_2.dir/Aufgabe_2/Aufgabe_2.cpp.o	17daa7f0f767f5c8
+182	220	1682067753971807459	uebung_2	a4a40f95b6c6cbe5
+1	185	1682067791635495759	CMakeFiles/uebung_2.dir/Aufgabe_2/Aufgabe_2.cpp.o	17daa7f0f767f5c8
+185	223	1682067791671495460	uebung_2	a4a40f95b6c6cbe5

@@ -1,0 +1,13 @@
+# ninja log v5
+1	170	1680213116585394189	CMakeFiles/uebung_1.dir/main.cpp.o	3f3b366e5acf66ef
+0	498	1680093798859957157	CMakeFiles/uebung_1.dir/implementation_files/ListE.cpp.o	dacddb5c859e1061
+2	299	1680093798663957489	CMakeFiles/uebung_1.dir/implementation_files/Aufgabe_4.cpp.o	b7eb0861ef6fef5d
+273	319	1680213116733393198	uebung_1	ed987136d3249e4e
+1	502	1680093798867957144	CMakeFiles/uebung_1.dir/implementation_files/Deque.cpp.o	2c9dee8250691eee
+1	424	1680093798787957279	CMakeFiles/uebung_1.dir/implementation_files/Aufgabe_1_TESTS.cpp.o	36699d78243bac9d
+1	500	1680093798863957151	CMakeFiles/uebung_1.dir/implementation_files/Aufgabe_2.cpp.o	a9575f3d6043e0cd
+2	79	1680093798439957868	CMakeFiles/uebung_1.dir/implementation_files/Aufgabe_3.cpp.o	80f1f4197a0c00f
+1	455	1680093798819957225	CMakeFiles/uebung_1.dir/implementation_files/ListD.cpp.o	4633d5c145e5e4e1
+1	175	1680213116589394163	CMakeFiles/uebung_1.dir/implementation_files/DoubleStack.cpp.o	ce855da3063ee369
+1	135	1680112767920875237	CMakeFiles/uebung_1.dir/implementation_files/Aufgabe_5.cpp.o	75cc1e2f9b1e9fc0
+1	273	1680213116689393493	CMakeFiles/uebung_1.dir/implementation_files/Aufgabe_6.cpp.o	4ab760c36b74c9eb

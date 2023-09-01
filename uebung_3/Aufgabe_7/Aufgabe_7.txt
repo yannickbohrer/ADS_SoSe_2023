@@ -1,0 +1,15 @@
+a)
+Ja, kann sein
+
+b)
+Ja, kann auch sein
+
+c)
+Kann keine sein, aufgrund dessen dass man zunächst von 911 auf 240 geht und dann nach 912 gehen möchte.
+Dies wiederspricht sich, da 240 < 911 < 912
+
+d)
+Ja, kann auch sein
+
+e)
+Kann keine sein, gleiche Logik wie in Teilaufgabe d) => 200 < 347 < 621

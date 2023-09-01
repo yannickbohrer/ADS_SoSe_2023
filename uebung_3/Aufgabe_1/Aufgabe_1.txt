@@ -1,0 +1,15 @@
+a)
+
+- Den erste Knoten eines Binären Suchbaums nennt man Wurzel
+- Jeder Knoten im BST kann entweder einen, oder zwei Nachfolger haben
+- Knoten ohne Nachfolger nennt man äußere Knoten oder Blätter
+- Jeder Knoten der weder die Wurzel, noch ein äußerer Knoten (Blätter) ist wird innerer Knoten genannt
+- Jeder Knoten trägt einen "Schlüssel"
+- Alle Schlüssel der Knoten des linken Teilbaums eines Knotens müssen kleider oder gleich dem Schlüssel des Knotens sein
+- Alle Schlüssel der Knoten des rechten Teilbaums eines Knotens müssen größer oder gleich dem Schlüssel des Knotens sein
+
+b)
+
+Nein, es handelt sich nicht um einen binären Suchbaum.
+- Mindestens ein Knoten im rechten Teilbaum des Wurzel-Knotens ist kleiner als die Wurzel selbst
+    - Das gleiche gilt für den Knoten mit dem Schlüssel 40, und für den mit dem Schlüssel 25

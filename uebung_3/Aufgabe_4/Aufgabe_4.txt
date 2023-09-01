@@ -1,0 +1,63 @@
+1)
+
+Resultierender BST:
+Man stelle sich bitte die Verbindungslinien vor.
+(Hierzu habe ich die beiden Teilbäume der Wurzel bewusst räumlich weit von einander getrennt.
+ Die restlichen Verbindungen sollten intuitiv erkennbar sein.)
+
+                                                50
+                                30                              80
+                            15      40                      70
+                        5                               65
+                    3       6                       55
+                2
+            1
+
+
+2)
+
+Höhe (Anzahl Niveaus -1) des Baums:
+6
+
+Anzahl Niveaus:
+7   (=> 0, 1, 2, 3, 4, 5, 6)
+
+Höhe der Knoten:
+Man gehe von einem Blatt Knoten aus, der auf dem höchsten Niveau des Baumes liegt
+=> Die Anzahl an Kanten bis zu dem Niveau des Knoten von dem die Höhe gesucht wird entspricht der Höhe des Knotens.
+
+Knoten mit Niveau 2:
+30, 80
+
+Kindknoten von 50:
+30, 80
+
+Elternknoten von 70:
+80
+
+
+3)
+Gesamtanzahl Vergleiche:
+Pro Knoten gilt, dass die Anzahl der Vergleiche um bei dem Knoten = dem Niveau des Knotens + 1 ist.
+=> Man zähle die Anzahl der Knoten pro Niveau, rechne diese * (Niveau + 1)
+   uns summiere alles auf um auf die Gesamtanzahl möglicher Vergleiche des BST zu kommen.
+Daher:
+    (1*1) + (2*2) + (3*3) + (2*4) + (3*5) + (1*6) + (1*7) = 1 + 4 + 9 + 8 + 15 + 6 + 7 = 50
+
+Um nun auf die Durschnittliche Anzahl Vergleiche zu kommen rechnet man:
+die Gesamtanzahl an Vergleichen geteilt durch die Gesamtanzahl an Kanten
+=> 50 / 12 = 4,16666666667 (=: Durchschnittleiche Anzahl Vergleiche pro Knoten)
+
+
+4)
+Preorder (WLR):
+50, 30, 15, 5, 3, 2, 1, 6, 40, 80, 70, 65, 55
+
+Inorder (LWR):
+1, 2, 3, 5, 6, 15, 30, 40, 50, 55, 65, 70, 80
+
+Postorder (LRW):
+1, 2, 3, 6, 5, 15, 40, 30, 55, 65, 70, 80, 50
+
+Levelorder (Niveau für Niveau):
+50, 30, 80, 15, 40, 70, 5, 65, 3, 6, 55, 2, 1

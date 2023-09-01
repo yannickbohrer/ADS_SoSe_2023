@@ -1,0 +1,13 @@
+Worst case:
+
+1. A, C, E, H, R, S, X
+2. X, S, R, H, E, C, A
+
+
+Best case:
+
+1. H, C, S, A, E, R, X
+2. H, C, A, E, S, R, X
+3. H, S, R, X, C, A, E
+
+(Zwei worst cases plus drei best cases => in Summe 5)

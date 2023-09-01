@@ -1,0 +1,6 @@
+# ninja log v5
+1	282	1681740410999495061	CMakeFiles/uebung_3.dir/Aufgabe_5/implementation_files/BinarySearchTree.cpp.o	6549b62c347cbdda
+1	321	1681740411039494893	CMakeFiles/uebung_3.dir/main.cpp.o	11dae6943923ca01
+0	15	1684364114220318703	build.ninja	c554718749789e84
+321	357	1681740411075494741	uebung_3	ffc29c393ad730f7
+0	2	0	clean	2796bbd04e3dae69

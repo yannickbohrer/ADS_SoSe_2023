@@ -1,0 +1,27 @@
+a)
+Kann eine sein.
+
+b)
+Kann keine sein:
+In diesem Beispiel ist der Knoten mit dem Schlüssel 4 unsere Wurzel.
+Von der Wurzel aus begeben wir uns nun in den rechten Teilbaum, da 10 > 4.
+Von der 10 aus gehen wir zur 8 und von dort aus zur 7, bis hier passt es.
+Nun geht das Beispiel aber auf die 3.
+Diese würde sich aber in dem linken Teilbaum unseres Wurzelknotens befinden, da 3 < 4.
+
+c)
+Kann keine sein:
+Ähnliche Herangehensweise wie in Aufgabenteil b).
+Hierbei fällt die Sequenz auseinander wenn der Schritt von 3 auf 8 erfolgt.
+Die 8 würde sich in dem linken Teilbaum des Knotens mit dem Schlüssel 9 befinden,
+nicht in dem rechten Teilbaum des Knotens mit Schlüssel 3.
+
+d)
+Kann keine sein:
+Ähnliche Herangehensweise wie in den Aufgabenteilen a) und b).
+Hier fällt die Sequenz auseinander sobald der Schritt von 3 auf 8 erfolgt.
+Die 8 würde sich definitiv in dem rechten Teilbaum der 7 befinden.
+Das wiederspricht sich damit, dass die 3 dem linken Teilbaum der 7 angehört.
+
+e)
+Kann eine sein.
